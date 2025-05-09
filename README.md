@@ -9,10 +9,13 @@ The Task-List Management System is a self-contained, command-line Java applicati
 ## 2. Open /out. Source code has been compiled
 
 ## 3. Execute the app
+
 ```bash
 java TaskManagerApp
 ```
 # Contribution
 Jacky Cui: [@JackyCui-CS]https://github.com/JackyCui-CS
+
 Henry X: [@HENRYTHEREAL]https://github.com/HENRYTHEREAL
+
 Warren Wu: [@W0rren12]https://github.com/W0rren12
